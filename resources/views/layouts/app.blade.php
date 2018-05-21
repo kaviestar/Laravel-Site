@@ -9,7 +9,9 @@
         <title>{{config('app.name', 'laravelsite')}}</title>
 </head>
 <body>
+	@include('inc.navbar')
+	<div class="container">
 	@yield('content')
-	
+	</div>
 </body>
 </html>
