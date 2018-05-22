@@ -14,6 +14,7 @@
             <li><a href="/laravelsite/public">Home</a></li>
             <li><a href="/laravelsite/public/about">About</a></li>
             <li><a href="/laravelsite/public/services">Services</a></li>
+            <li><a href="/laravelsite/public/posts">Blog</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
